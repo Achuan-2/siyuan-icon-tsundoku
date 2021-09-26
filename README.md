@@ -4,4 +4,4 @@
  - iconFile
  - iconFileRoot
 
- [preview.png]
+ ![preview.png](preview.png)
