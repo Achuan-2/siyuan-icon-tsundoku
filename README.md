@@ -1,10 +1,10 @@
 # Tsundoku icon
  a icon repository for [SiYuan](https://github.com/siyuan-note), which is adapted from the material icon.
- ![preview.png](preview.png)
  I only change two icons so far:
  - iconFile
  - iconFilesRoot
 
+![preview.png](https://cdn.jsdelivr.net/gh/Achuan-2/siyuan-icon-tsundoku/preview.png)
 ```html
 <symbol id="iconFile" viewBox="0 0 32 32">
 <path d="M7.877 28.328h16.259c2.799 0 4.192-1.393 4.192-4.151v-16.354c0-2.759-1.393-4.151-4.192-4.151h-16.259c-2.786 0-4.206 1.379-4.206 4.151v16.354c0 2.772 1.42 4.151 4.206 4.151zM7.917 26.172c-1.339 0-2.089-0.71-2.089-2.103v-16.138c0-1.393 0.75-2.103 2.089-2.103h16.179c1.326 0 2.076 0.71 2.076 2.103v16.137c0 1.393-0.75 2.103-2.076 2.103zM10.957 14.547h10.086c0.682 0 1.151-0.335 1.151-1.018s-0.442-1.031-1.152-1.031h-10.085c-0.723 0-1.166 0.349-1.166 1.031s0.469 1.018 1.166 1.018zM10.957 19.489h10.086c0.682 0 1.151-0.334 1.151-1.004 0-0.683-0.442-1.031-1.152-1.031h-10.085c-0.723 0-1.166 0.349-1.166 1.031 0 0.67 0.469 1.005 1.166 1.005z"></path>
