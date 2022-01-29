@@ -1,9 +1,9 @@
 # Tsundoku icon
  a icon repository for [SiYuan](https://github.com/siyuan-note), which is adapted from the material icon.
- 
+
 ![preview.png](https://cdn.jsdelivr.net/gh/Achuan-2/siyuan-icon-tsundoku/preview.png)
 
- I only change two icons so far:
+ I only changed two icons so far:
  - iconFile
  - iconFilesRoot
 ```html
