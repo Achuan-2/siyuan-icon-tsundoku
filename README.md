@@ -16,3 +16,7 @@
 <path d="M25.905 15.47l4.555 4.24-1.259 1.342-4.555-4.24 1.259-1.342z"></path>
 </symbol>
 ```
+
+## CHANGE_LOG
+
+- v0.0.3: update iconInbox
